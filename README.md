@@ -1,8 +1,7 @@
 # pong_neural_net_live
 
-##Overview
-This is the code for the Live [Youtube](https://www.youtube.com/watch?v=Hqf__FlRlzg) session by @Sirajology. In this live session I build
-the game of [Pong](http://www.ponggame.org) from scratch. Then I build a [Deep Q Network](https://www.quora.com/Artificial-Intelligence-What-is-an-intuitive-explanation-of-how-deep-Q-networks-DQN-work) that gets better and better over time through trial and error. The DQN is a convolutional neural network that reads in pixel data from the game and the game score. Using just those 2 parameters, it learns what moves it needs to make to become better.
+##Overvie
+this is a game of [Pong](http://www.ponggame.org) from scratch. and a [Deep Q Network](https://www.quora.com/Artificial-Intelligence-What-is-an-intuitive-explanation-of-how-deep-Q-networks-DQN-work) that gets better and better over time through trial and error. The DQN is a convolutional neural network that reads in pixel data from the game and the game score. Using just those 2 parameters, it learns what moves it needs to make to become better.
 
 ##Installation
 
